@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-[Solution URL]() |
-[Live Site URL]() |
+[Solution URL](https://www.frontendmentor.io/solutions/responsive-mobilefirst-with-sass-using-flexbox-and-grid-TOnHHH_dT) |
+[Live Site URL](https://samudriawan.github.io/ping-coming-soon-page-frontendmentor/) |
 [Challenge](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da)
 
 ## My process
